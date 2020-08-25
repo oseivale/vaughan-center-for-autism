@@ -7,6 +7,78 @@ body {
 	padding-top: 56px;
 }
 
+.btn {
+	background-color: #0e6d89;
+	color: #ffffff;
+}
+
+.btn:hover {
+	background-color: #1296bd;
+	color: #ffffff;
+}
+
+.banner-header {
+	font-size: 4em;
+	font-weight: bold;
+	text-align: right;
+}
+
+/* .card-header {
+	background-color: #e5e7f0;
+} */
+
+.banner-sub-text {
+	text-align: right;
+}
+
+.carousel-caption {
+	font-size: 1.3em;
+}
+
+.nav-link,
+.navbar-brand {
+	font-family: "Barlow Condensed", sans-serif;
+}
+
+.nav-link {
+	font-size: 1.2em;
+}
+
+.fa {
+	color: white;
+	margin-right: 8px;
+}
+
+.card-subtitle {
+	font-size: 1.2em;
+	color: #0e6d89;
+}
+
+.navbar-brand {
+	font-weight: 400;
+	font-size: 1.5em;
+}
+
+nav {
+	background-color: #f2963d;
+}
+
+.card-header,
+.card-title {
+	color: #0e6d89;
+	font-size: 2em;
+}
+
+.card-text,
+li {
+	font-size: 20.8px;
+	color: #000;
+}
+
+.program-text-block {
+	background-color: #e1f0f5;
+}
+
 h1,
 h2,
 h3,
@@ -16,7 +88,25 @@ h6 {
 	font-family: "Barlow Condensed", sans-serif;
 }
 
-p {
+h1 {
+	color: #0e6d89;
+	font-weight: bold;
+}
+
+.breadcrumb-item {
+	font-family: "Barlow Condensed", sans-serif;
+}
+
+a {
+	color: #0e6d89;
+}
+
+h2 {
+	color: #0e6d89;
+}
+
+p,
+li {
 	font-family: "Forum", cursive;
 	font-size: 1.2em;
 }
